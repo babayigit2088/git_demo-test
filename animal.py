@@ -1,6 +1,6 @@
 import sys
 def default():
-    print("hello")
+    print(" Hello")
 
 
 def cat():
